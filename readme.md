@@ -1,5 +1,4 @@
 
-```markdown
 # RobotScraper
 
 RobotScraper is a simple Go application that fetches and processes the `robots.txt` file from specified domains. It extracts allowed and disallowed paths and saves them as full URLs to a specified text file.
@@ -66,6 +65,5 @@ https://example.com/path2
 Disallowed URLs:
 https://example.com/path3
 https://example.com/path4
-```
-```
+
 
