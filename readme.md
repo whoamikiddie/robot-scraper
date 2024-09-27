@@ -1,23 +1,9 @@
 
-# RobotScraper
-
-RobotScraper is a simple Go application that fetches and processes the `robots.txt` file from specified domains. It extracts allowed and disallowed paths and saves them as full URLs to a specified text file.
-
-## Features
-
-- Fetches `robots.txt` files over HTTP and HTTPS.
-- Extracts allowed and disallowed paths.
-- Saves results as full URLs in a text file.
-- Supports multiple domains in a single run.
-- Provides an animated saving message for a better user experience.
-
-## Prerequisites
-
-- Go 1.16 or higher
 
 ## Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/whoamikiddie/robot-scraper
    cd RobotScraper
